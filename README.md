@@ -2,4 +2,4 @@
 ---
 2048 Game Based on Pygame
 
-![屏幕截图.png](https://i.loli.net/2020/01/31/lqwKkDLnBcur1FR.png)
+![18Gi7R.png](https://s2.ax1x.com/2020/01/31/18Gi7R.png)
